@@ -102,6 +102,9 @@ img, video, audio {
   margin-left: 2%;
 }
 
+* {
+  box-sizing: border-box;
+}
 
 .first {
   margin-left:0%;
